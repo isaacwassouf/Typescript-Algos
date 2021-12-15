@@ -1,4 +1,8 @@
 
+# Typescript-Algos
+
+### A bunch of popular algorithms implemented in Typescript.
+
 ### Sorting algorithms implemented:
 
  - [x] Merge sort
