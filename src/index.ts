@@ -1,6 +1,7 @@
-import { HeapSort } from "./Sorting/HeapSort";
+import { CountSort } from "./Sorting/CountSort";
 
-const arr = [10,10,8,7,6,5,5,4,2,1,1,1,1,1];
-HeapSort.sort(arr);
+const arr = [5,2,0,-120 ];
 
-arr.forEach(e => console.log(e));
+CountSort.sort(arr);
+
+console.log(arr);

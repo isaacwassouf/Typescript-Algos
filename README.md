@@ -11,4 +11,5 @@
  - [x] Insertion sort
  - [x] Selection sort
  - [x] Bubble sort
+ - [x] Count sort 
  - [ ] Radix sort
